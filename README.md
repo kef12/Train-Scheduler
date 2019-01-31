@@ -1,2 +1,2 @@
-# Train-Scheduler
-This is the train scheduler homework using FirebaseDB and Moment.js.
+# Train-Scheduler Application
+This is a train scheduler application that uses HTML, CSS, jQuery, FirebaseDB and Moment.js.
